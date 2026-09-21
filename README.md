@@ -68,7 +68,7 @@ The Tkinter interface provides:
 - buttons for insertion, username/phone/address searches, display, modification, deletion, collision inspection, saving, and loading;
 - a `Treeview` showing the current records;
 - a detail panel for viewing and editing the selected contact;
-- collision and backend table views for inspecting hash-table positions and probe sequences;
+- collision/probing visualization for inspecting hash-table positions and probe sequences.
 - keyboard shortcuts for common actions such as display, save, load, and insert.
 
 The address is stored with each record and can be shown in the full directory view and detail panel.
