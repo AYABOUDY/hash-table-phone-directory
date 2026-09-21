@@ -1,6 +1,6 @@
 # Hash Table Phone Directory
 
-## Overviewg
+## Overview
 
 Hash Table Phone Directory is a data-structures and algorithms project implemented as a Python desktop application. It demonstrates a custom open-addressing hash table while providing functionality for storing, searching, editing, deleting, and persisting contact records through a Tkinter graphical interface.
 
